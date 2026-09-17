@@ -1,10 +1,4 @@
-# ChatGPT Memory Update Prompt
 
-Copy and paste this to ChatGPT to update its memory about your project:
-
----
-
-Please remember the following about my Vaccine Reminder System project:
 
 ## Project Overview
 I built a full-stack Vaccine Reminder System for tracking vaccinations for children and pets with automated email reminders.
